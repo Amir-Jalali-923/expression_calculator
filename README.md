@@ -24,7 +24,7 @@ This project does **not** use Python’s built-in `eval()` function. Instead, it
 1. Run the script:
 
 ```bash
-python calculator.py
+python app.py
 ````
 
 2. Enter a mathematical expression when prompted:
